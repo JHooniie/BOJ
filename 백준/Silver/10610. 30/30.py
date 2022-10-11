@@ -1,3 +1,4 @@
+#test
 n = input()
 n = sorted(n, reverse=True)
 sum = 0
