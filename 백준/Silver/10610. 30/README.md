@@ -24,8 +24,3 @@
 
  <p>미르코가 만들고 싶어하는 수가 존재한다면 그 수를 출력하라. 그 수가 존재하지 않는다면, -1을 출력하라.</p>
 
-### 확인해야할 것
-
- <p>배수 판정법 : https://ladyang86.tistory.com/entry/%EB%B0%B0%EC%88%98-%ED%8C%90%EC%A0%95%EB%B2%95-%EC%B4%88%EC%A4%91%EA%B3%A0%EB%94%A9-%EB%AA%A8%EB%91%90-%EC%9D%B4%ED%95%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%8C</p>
- 
-  <p>sorted : [https://ladyang86.tistory.com/entry/%EB%B0%B0%EC%88%98-%ED%8C%90%EC%A0%95%EB%B2%95-%EC%B4%88%EC%A4%91%EA%B3%A0%EB%94%A9-%EB%AA%A8%EB%91%90-%EC%9D%B4%ED%95%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%8C](https://blockdmask.tistory.com/466)</p>
