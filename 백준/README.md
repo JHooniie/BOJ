@@ -8,7 +8,7 @@
   [sorted](https://blockdmask.tistory.com/466)
   <p>2217 : 22.10.11</p>
 
-
+[네이버 바로가기](http://www.naver.com/)
 
 ### 다이나믹 프로그래밍(DP)
   <p>1463 : 22.10.12</p>
