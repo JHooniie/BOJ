@@ -13,7 +13,7 @@
 [sorted](https://blockdmask.tistory.com/466)
 ### 다이나믹 프로그래밍(DP)
   <p>1463 : 22.10.12</p>
-  [1로 만들기 개념] (https://velog.io/@rladuswl/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-Feat.-%EA%B7%B8%EB%A6%AC%EB%94%94%EC%99%80-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0)
+  [1로 만들기 개념](https://velog.io/@rladuswl/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-Feat.-%EA%B7%B8%EB%A6%AC%EB%94%94%EC%99%80-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0)
   <p>11726 : 22.10.12</p>
-  [타일링 점화식1] (https://pro-jy.tistory.com/13)
-  [재귀 한계치] (https://sungmin-joo.tistory.com/19)
+  [타일링 점화식1](https://pro-jy.tistory.com/13)
+  [재귀 한계치](https://sungmin-joo.tistory.com/19)
