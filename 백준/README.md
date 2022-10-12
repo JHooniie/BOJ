@@ -17,4 +17,3 @@
   <p>11726 : 22.10.12</p>
   [타일링 점화식1](https://pro-jy.tistory.com/13)
   [재귀 한계치](https://sungmin-joo.tistory.com/19)
-  [재귀 한계치](https://sungmin-joo.tistory.com/19)
